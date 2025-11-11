@@ -1,1 +1,1 @@
-# AI-GAMES-WITH-INFORMED-SEARCH-UNINFORMED-SEARCH-AND-A-TIC-TAC-TOE-GAME
+This Python program combines multiple AI search algorithms and game implementations. It provides a menu-based interface where users can choose between maze pathfinding algorithms (BFS and A*), or play an AI-powered Tic Tac Toe game (Connect-4 variant).
